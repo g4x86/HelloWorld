@@ -27,3 +27,7 @@ Future development will make this script compatible with multiple systems.
 **Note**
 
 This is for personal and public use.
+
+**License**
+
+*GNU 3.0*
