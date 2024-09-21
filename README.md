@@ -23,3 +23,7 @@ Hello World from linux!
 **Plan**
 
 Future development will make this script compatible with multiple systems.
+
+**Note**
+
+This is for personal use.
