@@ -26,7 +26,7 @@ Future development will make this script compatible with multiple systems.
 
 **License**
 
-*GNU 3.0*
+*MIT*
 
 **Note**
 
