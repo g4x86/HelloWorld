@@ -18,20 +18,13 @@ Hello world from Pop!_OS 22.04 LTS linux
 
 **Environment**
 
-*Bash* command interpretor and `uname` command are required for running this script.
+*Bash* command interpretor and the following Linux commands are required for running this script:
 
-**Plan**
-
-Future development will make this script compatible with multiple systems.
+-   `uname`
+-   `cut`
+-   `sed`
+-   `lsb_release`
 
 **License**
 
 *MIT*
-
-**Note**
-
-This is for personal and public use.
-
-**Revisions**
-
-None
