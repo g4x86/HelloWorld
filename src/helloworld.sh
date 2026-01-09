@@ -5,7 +5,7 @@
 OS_NAME="$(uname -s | tr [:upper:] [:lower:])"
 
 # Display a message.
-echo "Hello World from ${OS_NAME}!"
+echo "Hello World from ${OS_NAME}'s shell!"
 
 # Exit with a code.
 exit 0

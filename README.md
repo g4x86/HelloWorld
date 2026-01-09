@@ -1,6 +1,6 @@
 # HelloWorld Shell Script
 
-This is a hello-world shell script developed in *Bash*.
+This is a hello-world shell script developed with *Bash* shell in a host OS.
 
 **Usage**
 
