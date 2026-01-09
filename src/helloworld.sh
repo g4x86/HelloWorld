@@ -3,9 +3,10 @@
 
 # Get UNIX-like OS name.
 OS_NAME="$(uname -s | tr [:upper:] [:lower:])"
+DIST_DESCR="$(lsb_release -d | cut -d: -f 2 | sed 's/^[ \t]*//;s/[ \t]*$//')"
 
 # Display a message.
-echo "Hello World from ${OS_NAME}'s shell!"
+echo "Hello world from ${DIST_DESCR} ${OS_NAME}"
 
 # Exit with a code.
 exit 0
